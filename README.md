@@ -1,5 +1,7 @@
 # React Native App Intro Animation with Reanimated 3
 
+![React Native App Intro Animation with Reanimated 3 Thumbnail](assets/React%20Native%20Onboarding%20Thumbnail.png)
+
 This project is inspired by [KavSoft](https://twitter.com/_Kavsoft)'s new video on [SwiftUI App Intro Animation's](https://youtu.be/9Ztm5ePwY4k).
 
 Watch the full tutorial on how you can create App intro animation with React native and Reanimated 3 on [YouTuebe](https://youtu.be/lza_xRnsS4I)
